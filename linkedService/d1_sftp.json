@@ -11,6 +11,10 @@
 			"authenticationType": "Basic",
 			"userName": "transfer_es",
 			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4YmEzNzYyNS04ZmJiLTQ5YzMtOWVjYy1kOWUwYjAxODJmMzMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "IDP-IR",
+			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
